@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+FoReco/FoReco.egg-info/PKG-INFO
+FoReco/FoReco.egg-info/SOURCES.txt
+FoReco/FoReco.egg-info/dependency_links.txt
+FoReco/FoReco.egg-info/requires.txt
+FoReco/FoReco.egg-info/top_level.txt
